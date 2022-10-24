@@ -1,4 +1,5 @@
-# coc524a08b125eb6e254997fb
+# Twimba project
+You can visit the site using this link: https://chipper-pegasus-8122ec.netlify.app
 
 ## About Scrimba
 
